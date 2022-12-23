@@ -70,6 +70,10 @@ form {
   padding: 10px 30px;
 }
 
+.textarea {
+  resize: none;
+}
+
 .submit1:hover {
   cursor: pointer;
 }
